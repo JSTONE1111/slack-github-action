@@ -38,11 +38,11 @@
     "@actions/github": "^6.0.1",
     "@slack/logger": "^4.0.0",
     "@slack/web-api": "^7.12.0",
-    "axios": "^1.12.2",
+    "axios": "^1.13.5",
     "axios-retry": "^4.5.0",
     "flat": "^6.0.1",
     "https-proxy-agent": "^7.0.6",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "markup-js": "^1.5.21"
   },
   "devDependencies": {
